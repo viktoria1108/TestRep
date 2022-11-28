@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\завантаження\\wcf-lab1-webapi-2022-Krymchuc-WebApi\\wcf-lab1-webapi-2022-Krymchuc-WebApi\\Real-State-Catalog\\Real_State_Catalog_WebAPI\\Client\\Real_State_Catalog_WebAPI.Client.csproj": {}
+  },
+  "projects": {
+    "D:\\завантаження\\wcf-lab1-webapi-2022-Krymchuc-WebApi\\wcf-lab1-webapi-2022-Krymchuc-WebApi\\Real-State-Catalog\\Real_State_Catalog_WebAPI\\Client\\Real_State_Catalog_WebAPI.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\завантаження\\wcf-lab1-webapi-2022-Krymchuc-WebApi\\wcf-lab1-webapi-2022-Krymchuc-WebApi\\Real-State-Catalog\\Real_State_Catalog_WebAPI\\Client\\Real_State_Catalog_WebAPI.Client.csproj",
+        "projectName": "Real_State_Catalog_WebAPI.Client",
+        "projectPath": "D:\\завантаження\\wcf-lab1-webapi-2022-Krymchuc-WebApi\\wcf-lab1-webapi-2022-Krymchuc-WebApi\\Real-State-Catalog\\Real_State_Catalog_WebAPI\\Client\\Real_State_Catalog_WebAPI.Client.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\завантаження\\wcf-lab1-webapi-2022-Krymchuc-WebApi\\wcf-lab1-webapi-2022-Krymchuc-WebApi\\Real-State-Catalog\\Real_State_Catalog_WebAPI\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\завантаження\\wcf-lab1-webapi-2022-Krymchuc-WebApi\\wcf-lab1-webapi-2022-Krymchuc-WebApi\\Real-State-Catalog\\Real_State_Catalog_WebAPI\\Shared\\Real_State_Catalog_WebAPI.Shared.csproj": {
+                "projectPath": "D:\\завантаження\\wcf-lab1-webapi-2022-Krymchuc-WebApi\\wcf-lab1-webapi-2022-Krymchuc-WebApi\\Real-State-Catalog\\Real_State_Catalog_WebAPI\\Shared\\Real_State_Catalog_WebAPI.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.5, 6.0.5]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\завантаження\\wcf-lab1-webapi-2022-Krymchuc-WebApi\\wcf-lab1-webapi-2022-Krymchuc-WebApi\\Real-State-Catalog\\Real_State_Catalog_WebAPI\\Shared\\Real_State_Catalog_WebAPI.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\завантаження\\wcf-lab1-webapi-2022-Krymchuc-WebApi\\wcf-lab1-webapi-2022-Krymchuc-WebApi\\Real-State-Catalog\\Real_State_Catalog_WebAPI\\Shared\\Real_State_Catalog_WebAPI.Shared.csproj",
+        "projectName": "Real_State_Catalog_WebAPI.Shared",
+        "projectPath": "D:\\завантаження\\wcf-lab1-webapi-2022-Krymchuc-WebApi\\wcf-lab1-webapi-2022-Krymchuc-WebApi\\Real-State-Catalog\\Real_State_Catalog_WebAPI\\Shared\\Real_State_Catalog_WebAPI.Shared.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\завантаження\\wcf-lab1-webapi-2022-Krymchuc-WebApi\\wcf-lab1-webapi-2022-Krymchuc-WebApi\\Real-State-Catalog\\Real_State_Catalog_WebAPI\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
